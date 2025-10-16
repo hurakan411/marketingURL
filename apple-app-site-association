@@ -1,1 +1,1 @@
-{ "applinks": { "apps": [], "details": [ { "appID": "9927M765H2.com.example.bookmarkMock", "paths": [ "/share", "/share/", "/share" ] } ] } }
+{"applinks":{"apps":[],"details":[{"appID":"9927M765H2.com.example.bookmarkMock","paths":["/share","/share*","/share/*"]}]}}
